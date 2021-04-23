@@ -1,0 +1,26 @@
+.container {
+    width: 725px;
+    height:800px;
+    background-color:red;
+    font-family: serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block
+}
+
+.top {
+    height: 60px;
+    width: 700px;
+    background-color:darkgray;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    object-fit: cover;
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+    display:flex
+}
+
+.bottom {
+    font-family: sans-serfif;
+}
